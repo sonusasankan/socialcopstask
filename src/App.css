@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    background-color: #dcdcdc;
+}
+.__json-pretty__{
+    color: #d6d6d6;
+}
+.__json-key__{
+    color: #da6a03;
+}
+
+.__json-value__{
+    color: #e8bc67;
+}
+
+.__json-string__{
+    color: #a3ca38;
+}
