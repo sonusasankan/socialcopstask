@@ -2,4 +2,4 @@
 
 `npm install` to download dependencies,
 `npm start` to run app,
-`npm test` to test app
+`npm test` to test.
