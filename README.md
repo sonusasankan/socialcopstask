@@ -1,2 +1,5 @@
 # socialCops front-end assignmentgit 
-to run app `npm install`
+
+`npm install` to download dependencies
+`npm start` to run app
+`npm test` to test app
